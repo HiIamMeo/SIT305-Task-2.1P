@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">prac for 2.1</string>
+    <string name="input">Enter Number</string>
+    <string-array name="list_array">
+        <item>Metre</item>
+        <item>Celsius</item>
+        <item>Kilograms</item>
+    </string-array>
+</resources>
